@@ -176,7 +176,7 @@ Invocation:
 									<xsl:text> en Español </xsl:text>
 								</xsl:when>
 								<xsl:when test="$tooltipLanguage='Thai'">
-									<xsl:text> in Thai </xsl:text>
+									<xsl:text> ภาษาไทย </xsl:text>
 								</xsl:when>
 								<xsl:when test="$tooltipLanguage">
 									<xsl:text> in </xsl:text>
@@ -226,7 +226,7 @@ Invocation:
 									<xsl:text> en&#160;Español </xsl:text>
 								</xsl:when>
 								<xsl:when test="$tooltipLanguage='Thai'">
-									<xsl:text> in Thai </xsl:text>
+									<xsl:text> ภาษาไทย </xsl:text>
 								</xsl:when>
 								<xsl:when test="$tooltipLanguage='English'">
 									<!-- no output -->
@@ -411,19 +411,18 @@ Invocation:
                                                                 <!-- Hassadee Pimsuwan -->
 								<xsl:when test="$tooltipLanguage='Thai'"> 
 									<xsl:text>
-										The X3D tooltips provide summary descriptions and authoring hints for each
-										X3D node (element) and field (attribute) in the version 
+										X3D tooltips เป็นเอกสารที่รวบรวมคำอธิบายโดยสรุปและข้อเสนอแนะของแต่ละโหนด (element) และฟิลด์ (attribute) ในรุ่น
 									</xsl:text>
                                                                         <xsl:value-of select="$version"/>
-									<xsl:text> specification.
-										They provide context-sensitive support for authors and tools (such as
+									<xsl:text>
+										เอกสารนี้ยังรวมถึงคำอธิบายช่วยเหลือสำหรับผู้ใช้เครื่องมือ อย่างเช่น 
 									</xsl:text>
-									<a href="https://savage.nps.edu/X3D-Edit" target="_blank">X3D-Edit</a><xsl:text>)</xsl:text>
-                                                                        <xsl:text>, with each node also providing appropriate links to the
+									<a href="https://savage.nps.edu/X3D-Edit" target="_blank">X3D-Edit</a><xsl:text> ด้วย</xsl:text>
+                                                                        <xsl:text>โดยแต่ละโหนดจะมีการโยงไปถึง
 									</xsl:text>
 
                                                                         <!-- TODO
-                                                                        <xsl:text> and will be integrated with the
+                                                                        <xsl:text> และกำลังจะรวมเข้ากับ
 									</xsl:text>
 										<a href="http://www.web3d.org/specifications" target="_blank">X3D Schema</a>
 									<xsl:text>.&#10;</xsl:text>
