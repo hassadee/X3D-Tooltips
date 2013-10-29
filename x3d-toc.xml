@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE toc PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 2.0//EN" "http://java.sun.com/products/javahelp/toc_2_0.dtd">
+<toc version="2.0">
+  
+  <!-- TODO update and restore
+  <tocitem text="X3D-Edit default">
+    <tocitem text="About X3D-Edit" target="about"/>
+    <tocitem text="X3D Summary" target="x3d-summary"/>
+  </tocitem>
+  -->
+<tocitem text="X3D Extensible 3D Graphics" expand="true">
+
+  <!-- ==================================================================   -->
+  <tocitem text="X3D-Edit"                                target="X3D-Edit" expand="false">
+      <tocitem text="X3D-Edit home"                       target="X3D-Edit">
+        <tocitem text="Overview"                          target="X3D-Edit.Overview"/>
+        <tocitem text="Acknowledgements"                  target="X3D-Edit.Acknowledgements"/>
+        <tocitem text="Books"                             target="X3D-Edit.Books"/>
+        <tocitem text="Chat"                              target="netbeans-collaboration-module"/>
+        <tocitem text="Downloads"                         target="X3D-Edit.Downloads"/>
+        <tocitem text="Features"                          target="X3D-Edit.Features"/>
+        <tocitem text="Issue Tracking"                    target="X3D-Edit.IssueTracking"/>
+        <tocitem text="Licenses"                          target="X3D-Edit.Licenses"/>
+        <tocitem text="Mailing Lists"                     target="X3D-Edit.MailingLists"/>
+        <tocitem text="Plugins"                           target="X3D-Edit.Plugins"/>
+        <tocitem text="Support"                           target="X3D-Edit.Support"/>
+        <tocitem text="Contact"                           target="X3D-Edit.Contact"/>
+      </tocitem>
+      <tocitem text="Installing Collaboration Chat module" target="netbeans-collaboration-module"/>
+      <tocitem text="Report a bug" target="x3d-bugreport"/>
+  </tocitem>
+
+  <!-- ================================================================== -->
+  <tocitem text="X3D Resources"                       target="X3dResources.html" expand="false">
+    <tocitem text="Applications"                      target="X3dResourcesApplications"/>
+    <tocitem text="Authoring Software"                target="X3dResourcesAuthoringSoftware"/>
+    <tocitem text="Authoring Support"                 target="X3dResourcesAuthoringSupport"/>
+    <tocitem text="Books"                             target="X3dResourcesBooks"/>
+    <tocitem text="Conversions and Translation Tools" target="X3dResourcesConversions"/>
+    <tocitem text="Examples"                          target="X3dResourcesExamples"/>
+    <tocitem text="License"                           target="X3dResourcesLicense"/>
+    <tocitem text="Mobile Support"                    target="X3dResourcesMobile"/>
+    <tocitem text="PowerPoint Support"                target="X3dResourcesPowerPoint"/>
+    <tocitem text="References"                        target="X3dResourcesReferences"/>
+    <tocitem text="Training"                          target="X3dResourcesTraining"/>
+    <tocitem text="Tutorials"                         target="X3dResourcesTutorials"/>
+    <tocitem text="Contact"                           target="X3dResourcesContact"/>
+  </tocitem>
+  
+  <!-- ================================================================== -->
+  <tocitem text="X3D Scene Authoring Hints"           target="hints.html" expand="false">
+    <tocitem text="Authoring Practices"               target="hintsAuthoring"/>
+    <tocitem text="Coordinate Systems"                target="hintsCoordinateSystems"/>
+    <tocitem text="Credits"                           target="hintsCredits"/>
+    <tocitem text="Dates"                             target="hintsDates"/>
+    <tocitem text="HTML"                              target="hintsHTML"/>
+    <tocitem text="Images"                            target="hintsImages"/>
+    <tocitem text="Inlines and Prototypes"            target="hintsInlinesPrototypes"/>
+    <tocitem text="License"                           target="hintsLicense"/>
+    <tocitem text="meta Tags"                         target="hintsmetaTags"/>
+    <tocitem text="Naming Conventions"                target="hintsNamingConventions"/>
+    <tocitem text="Scripts"                           target="hintsScripts"/>
+    <tocitem text="URL Links"                         target="hintsurls"/>
+    <tocitem text="Viewpoints"                        target="hintsViewpoints"/>
+  </tocitem>
+  
+  <!-- ================================================================== -->
+  
+  <tocitem text="X3D Specifications"                      target="X3dSpecificationsFeedback" expand="false">
+    <tocitem text="X3D Abstract Functionality"            target="X3dAbstractSpecification"/>
+    <tocitem text=".x3d  XML Encoding"                    target="X3dEncoding.x3d"/>
+    <tocitem text=".x3dv ClassicVRML Encoding"            target="X3dEncoding.x3dv"/>
+    <tocitem text=".x3db Compressed Binary Encoding"      target="X3dEncoding.x3db"/>
+    <tocitem text="SAI Scene Authoring Interface"         target="X3dSai"/>
+    <tocitem text=".js   Ecmascript (JavaScript) Language Bindings"    target="X3dSai.Ecmascript"/>
+    <tocitem text=".java Java Language Bindings"          target="X3dSai.Java"/>
+    <tocitem text="Humanoid Animation (H-Anim)"           target="HAnim"/>
+    <tocitem text="VRML97 Specification"                  target="VRML97"/>
+    <tocitem text="Online Availability"                   target="OnlineAvailability"/>
+    <tocitem text="ECMAscript (JavaScript) Specification" target="ECMAscript"/>
+    <tocitem text="Collada Specification"                 target="Collada"/>
+    <tocitem text="XML Security Recommendations"          target="XmlSecurity"/>
+    <tocitem text="Feedback on X3D Specifications"        target="X3dSpecificationsFeedback"/>
+  </tocitem>
+  
+  <!-- ================================================================== -->
+  
+  <tocitem text="X3D Tooltips"                        target="X3dTooltips" expand="false">
+    <tocitem text="X3D Tooltips in Chinese"           target="X3dTooltipsChinese"/>
+    <tocitem text="X3D Tooltips in English"           target="X3dTooltipsEnglish"/>
+    <tocitem text="X3D Tooltips in French"            target="X3dTooltipsFrench"/>
+    <tocitem text="X3D Tooltips in German"            target="X3dTooltipsGerman"/>
+    <tocitem text="X3D Tooltips in Italian"           target="X3dTooltipsItalian"/>
+    <tocitem text="X3D Tooltips in Korean"            target="X3dTooltipsKorean"/>
+    <tocitem text="X3D Tooltips in Portuguese"        target="X3dTooltipsPortuguese"/>
+    <tocitem text="X3D Tooltips in Spanish"           target="X3dTooltipsSpanish"/>
+    <tocitem text="X3D Tooltips in Thai"              target="X3dTooltipsThai"/>
+  </tocitem>
+  
+  <!-- ================================================================== -->
+  
+  <!-- TODO:  Xj3D working as plugin within JavaHelp, also need .png support within JavaHelp :(
+  <tocitem text="HTML Object Tag for X3D"             target="HtmlObjectTagForX3d.html"/> -->
+  
+  <tocitem text="Additional References Online"        target="AdditionalReferences" expand="false">
+    <tocitem text="X3D for Web Authors"               target="X3dForWebAuthors"/>
+    <tocitem text="DIS Plain and Simple Guide"        target="DisPlainAndSimple.pdf"/>
+    <tocitem text="SMAL Metadata"                     target="SMAL"/>
+    <tocitem text="X3D Security Examples"             target="X3dSecurityExamples"/>
+  </tocitem>
+  
+  <tocitem text="Xj3D Navigation Buttons"             target="Xj3dNavigationHotkeys.html"/>
+  <!-- TODO missing <tocitem text="Xj3D Keyboard Navigation"            target="Xj3dKeyboardNavigation.html"/> -->
+  <tocitem text="X3D Schematron Validation"           target="X3dSchematron.html"/>
+  
+</tocitem>
+
+</toc>
