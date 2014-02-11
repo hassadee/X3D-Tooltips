@@ -2786,7 +2786,7 @@
 	<attribute tooltip="[order &initializeOnlyLabel; &SFInt32Label; &#34;3&#34;] [0,5]&#10;order defines the number of internal filters (larger means smoother response, longer delay)." name="order"/>
 	<attribute tooltip="[tau &inputOutputLabel; &SFTimeLabel; &#34;0.3&#34;] [0,&#8734;)&#10;tau is the exponential-decay time constant for filter response in seconds." name="tau"/>
 	<attribute tooltip="[tolerance &inputOutputLabel; &SFFloatLabel; #IMPLIED] -1 or [0,&#8734;)&#10;Absolute value for satisfactory completion proximity (-1 lets browser choose)." name="tolerance"/>
-	<attribute tooltip="[initialValue &initializeOnlyLabel; &SFColorLabel; &#34;0.8 0.8 0.8&#34;]&#10;Initial starting value for this node." name="initialValue"/>
+	<attribute tooltip="[initialValue &initializeOnlyLabel; &SFColorLabel; &#34;0.8 0.8 0.8&#34;]&#10;Initail คือค่าเริ่มต้นของ node" name="initialValue"/>
 	<attribute tooltip="[initialDestination &initializeOnlyLabel; &SFColorLabel; &#34;0.8 0.8 0.8&#34;]&#10;Initial destination value for this node." name="initialDestination"/>
 	<attribute tooltip="[set_value &inputOnlyLabel; &SFColorLabel; #FIXED &#34;&#34;]&#10;set_value resets current value of this node." name="set_value"/>
 	<attribute tooltip="[set_destination &inputOnlyLabel; &SFColorLabel; #FIXED &#34;&#34;]&#10;set_destination resets destination value of this node." name="set_destination"/>
@@ -2801,7 +2801,7 @@
 	<attribute tooltip="[order &initializeOnlyLabel; &SFInt32Label; &#34;3&#34;] [0,5]&#10;order defines the number of internal filters (larger means smoother response, longer delay)." name="order"/>
 	<attribute tooltip="[tau &inputOutputLabel; &SFTimeLabel; &#34;0.3&#34;] [0,&#8734;)&#10;tau is the exponential-decay time constant for filter response in seconds." name="tau"/>
 	<attribute tooltip="[tolerance &inputOutputLabel; &SFFloatLabel; #IMPLIED] -1 or [0,&#8734;)&#10;Absolute value for satisfactory completion proximity (-1 lets browser choose)." name="tolerance"/>
-	<attribute tooltip="[initialValue &initializeOnlyLabel; &MFVec3fLabel; &#34;0 0 0&#34;]&#10;Initial starting value for this node." name="initialValue"/>
+	<attribute tooltip="[initialValue &initializeOnlyLabel; &MFVec3fLabel; &#34;0 0 0&#34;]&#10;Initail คือค่าเริ่มต้นของ node" name="initialValue"/>
 	<attribute tooltip="[initialDestination &initializeOnlyLabel; &MFVec3fLabel; &#34;0 0 0&#34;]&#10;Initial destination value for this node." name="initialDestination"/>
 	<attribute tooltip="[set_value &inputOnlyLabel; &MFVec3fLabel; #FIXED &#34;&#34;]&#10;set_value resets current value of this node." name="set_value"/>
 	<attribute tooltip="[set_destination &inputOnlyLabel; &MFVec3fLabel; #FIXED &#34;&#34;]&#10;set_destination resets destination value of this node." name="set_destination"/>
@@ -2816,7 +2816,7 @@
 	<attribute tooltip="[order &initializeOnlyLabel; &SFInt32Label; &#34;3&#34;] [0,5]&#10;order defines the number of internal filters (larger means smoother response, longer delay)." name="order"/>
 	<attribute tooltip="[tau &inputOutputLabel; &SFTimeLabel; &#34;0.3&#34;] [0,&#8734;)&#10;tau is the exponential-decay time constant for filter response in seconds." name="tau"/>
 	<attribute tooltip="[tolerance &inputOutputLabel; &SFFloatLabel; #IMPLIED] -1 or [0,&#8734;)&#10;Absolute value for satisfactory completion proximity (-1 lets browser choose)." name="tolerance"/>
-	<attribute tooltip="[initialValue &initializeOnlyLabel; &SFRotationLabel; &#34;0 0 0&#34;]&#10;Initial starting value for this node." name="initialValue"/>
+	<attribute tooltip="[initialValue &initializeOnlyLabel; &SFRotationLabel; &#34;0 0 0&#34;]&#10;Initail คือค่าเริ่มต้นของ node" name="initialValue"/>
 	<attribute tooltip="[initialDestination &initializeOnlyLabel; &SFRotationLabel; &#34;0 0 0&#34;]&#10;Initial destination value for this node." name="initialDestination"/>
 	<attribute tooltip="[set_value &inputOnlyLabel; &SFRotationLabel; #FIXED &#34;&#34;]&#10;set_value resets current value of this node." name="set_value"/>
 	<attribute tooltip="[set_destination &inputOnlyLabel; &SFRotationLabel; #FIXED &#34;&#34;]&#10;set_destination resets destination value of this node." name="set_destination"/>
@@ -2831,7 +2831,7 @@
 	<attribute tooltip="[order &initializeOnlyLabel; &SFInt32Label; &#34;3&#34;] [0,5]&#10;order defines the number of internal filters (larger means smoother response, longer delay)." name="order"/>
 	<attribute tooltip="[tau &inputOutputLabel; &SFTimeLabel; &#34;0.3&#34;] [0,&#8734;)&#10;tau is the exponential-decay time constant for filter response in seconds." name="tau"/>
 	<attribute tooltip="[tolerance &inputOutputLabel; &SFFloatLabel; #IMPLIED] -1 or [0,&#8734;)&#10;Absolute value for satisfactory completion proximity (-1 lets browser choose)." name="tolerance"/>
-	<attribute tooltip="[initialValue &initializeOnlyLabel; &SFVec3fLabel; &#34;0 0 0&#34;]&#10;Initial starting value for this node." name="initialValue"/>
+	<attribute tooltip="[initialValue &initializeOnlyLabel; &SFVec3fLabel; &#34;0 0 0&#34;]&#10;Initail คือค่าเริ่มต้นของ node" name="initialValue"/>
 	<attribute tooltip="[initialDestination &initializeOnlyLabel; &SFVec3fLabel; &#34;0 0 0&#34;]&#10;Initial destination value for this node." name="initialDestination"/>
 	<attribute tooltip="[set_value &inputOnlyLabel; &SFVec3fLabel; #FIXED &#34;&#34;]&#10;set_value resets current value of this node." name="set_value"/>
 	<attribute tooltip="[set_destination &inputOnlyLabel; &SFVec3fLabel; #FIXED &#34;&#34;]&#10;set_destination resets destination value of this node." name="set_destination"/>
@@ -2846,7 +2846,7 @@
 	<attribute tooltip="[order &initializeOnlyLabel; &SFInt32Label; &#34;3&#34;] [0,5]&#10;order defines the number of internal filters (larger means smoother response, longer delay)." name="order"/>
 	<attribute tooltip="[tau &inputOutputLabel; &SFTimeLabel; &#34;0.3&#34;] [0,&#8734;)&#10;tau is the exponential-decay time constant for filter response in seconds." name="tau"/>
 	<attribute tooltip="[tolerance &inputOutputLabel; &SFFloatLabel; #IMPLIED] -1 or [0,&#8734;)&#10;Absolute value for satisfactory completion proximity (-1 lets browser choose)." name="tolerance"/>
-	<attribute tooltip="[initialValue &initializeOnlyLabel; &SFVec2fLabel; &#34;0 0&#34;]&#10;Initial starting value for this node." name="initialValue"/>
+	<attribute tooltip="[initialValue &initializeOnlyLabel; &SFVec2fLabel; &#34;0 0&#34;]&#10;Initail คือค่าเริ่มต้นของ node" name="initialValue"/>
 	<attribute tooltip="[initialDestination &initializeOnlyLabel; &SFVec2fLabel; &#34;0 0&#34;]&#10;Initial destination value for this node." name="initialDestination"/>
 	<attribute tooltip="[set_value &inputOnlyLabel; &SFVec2fLabel; #FIXED &#34;&#34;]&#10;set_value resets current value of this node." name="set_value"/>
 	<attribute tooltip="[set_destination &inputOnlyLabel; &SFVec2fLabel; #FIXED &#34;&#34;]&#10;set_destination resets destination value of this node." name="set_destination"/>
@@ -2861,7 +2861,7 @@
 	<attribute tooltip="[order &initializeOnlyLabel; &SFInt32Label; &#34;3&#34;] [0,5]&#10;order defines the number of internal filters (larger means smoother response, longer delay)." name="order"/>
 	<attribute tooltip="[tau &inputOutputLabel; &SFTimeLabel; &#34;0.3&#34;] [0,&#8734;)&#10;tau is the exponential-decay time constant for filter response in seconds." name="tau"/>
 	<attribute tooltip="[tolerance &inputOutputLabel; &SFFloatLabel; #IMPLIED] -1 or [0,&#8734;)&#10;Absolute value for satisfactory completion proximity (-1 lets browser choose)." name="tolerance"/>
-	<attribute tooltip="[initialValue &initializeOnlyLabel; &SFFloatLabel; &#34;0&#34;]&#10;Initial starting value for this node." name="initialValue"/>
+	<attribute tooltip="[initialValue &initializeOnlyLabel; &SFFloatLabel; &#34;0&#34;]&#10;Initail คือค่าเริ่มต้นของ node" name="initialValue"/>
 	<attribute tooltip="[initialDestination &initializeOnlyLabel; &SFFloatLabel; &#34;0&#34;]&#10;Initial destination value for this node." name="initialDestination"/>
 	<attribute tooltip="[set_value &inputOnlyLabel; &SFFloatLabel; #FIXED &#34;&#34;]&#10;set_value resets current value of this node." name="set_value"/>
 	<attribute tooltip="[set_destination &inputOnlyLabel; &SFFloatLabel; #FIXED &#34;&#34;]&#10;set_destination resets destination value of this node." name="set_destination"/>
@@ -2876,7 +2876,7 @@
 	<attribute tooltip="[order &initializeOnlyLabel; &SFInt32Label; &#34;3&#34;] [0,5]&#10;order defines the number of internal filters (larger means smoother response, longer delay)." name="order"/>
 	<attribute tooltip="[tau &inputOutputLabel; &SFTimeLabel; &#34;0.3&#34;] [0,&#8734;)&#10;tau is the exponential-decay time constant for filter response in seconds." name="tau"/>
 	<attribute tooltip="[tolerance &inputOutputLabel; &SFFloatLabel; #IMPLIED] -1 or [0,&#8734;)&#10;Absolute value for satisfactory completion proximity (-1 lets browser choose)." name="tolerance"/>
-	<attribute tooltip="[initialValue &initializeOnlyLabel; &MFVec2fLabel; #IMPLIED]&#10;Initial starting value for this node." name="initialValue"/>
+	<attribute tooltip="[initialValue &initializeOnlyLabel; &MFVec2fLabel; #IMPLIED]&#10;Initail คือค่าเริ่มต้นของ node" name="initialValue"/>
 	<attribute tooltip="[initialDestination &initializeOnlyLabel; &MFVec2fLabel; #IMPLIED]&#10;Initial destination value for this node." name="initialDestination"/>
 	<attribute tooltip="[set_value &inputOnlyLabel; &MFVec2fLabel; #FIXED &#34;&#34;]&#10;set_value resets current value of this node." name="set_value"/>
 	<attribute tooltip="[set_destination &inputOnlyLabel; &MFVec2fLabel; #FIXED &#34;&#34;]&#10;set_destination resets destination value of this node." name="set_destination"/>
@@ -2888,8 +2888,8 @@
     <element icon="icons/ColorInterpolator.gif" tooltip="(v3.3 or later) ColorChaser generates a series of SFColor values that progressively change from initial value to destination value.&#10;ข้อเสนอแนะ: value_changed output events can be ROUTEd to one of a &lt;Material&gt; node's color fields, for example." name="ColorChaser">
 	<attribute tooltip="[DEF ID #IMPLIED]&#10;DEF เป็นการกำหนดชื่อ ID เฉพาะสำหรับโหนดซึ่งสามารถอ้างอิงได้จากโหนดอื่น&#10;ข้อเสนอแนะ: ชื่อ DEF ควรมีความชัดเจน บ่งบอกถึงโหนดนั้นว่าคืออะไรหรือทำอะไรอย่างมีความหมาย" name="DEF"/>
 	<attribute tooltip="[USE IDREF #IMPLIED]&#10;USE คือการเรียกใช้ใหม่สำหรับโหนด DEF ID ที่ถูกประกาศไว้แล้ว (Reuse), แต่ไม่รวมถึงโหนดลูกอื่นๆและคุณลักษณะ (attribute) อื่นๆด้วย (ยกเว้น containerField ที่มีค่าที่แตกต่าง)&#10;ข้อเสนอแนะ: การใช้ USE สามารถเพิ่มประสิทธิภาพในการทำงานได้ (แบบที่ไม่ใช่การ duplicate โหนด)&#10;ข้อควรระวัง: ไม่รวมถึงโหนดลูก (child node), คุณลักษณะ (attribute) ของ DEF, หรือค่าคุณลักษณะอื่นๆ (ยกเว้นสำหรับ containerField) เมื่อกำหนดคุณลักษณะของ USE&#10;ข้อควรระวัง: แต่ละค่าของ USE จะต้องตรงกับค่า DEF ที่ถูกประกาศก่อนหน้าใน Scene นั้น" name="USE"/>
-	<attribute tooltip="[duration &inputOutputLabel; &SFTimeLabel; &#34;1&#34;] [0,&#8734;)&#10;duration is the time interval for filter response in seconds." name="duration"/>
-	<attribute tooltip="[initialValue &initializeOnlyLabel; &SFColorLabel; &#34;0.8 0.8 0.8&#34;]&#10;Initial starting value for this node." name="initialValue"/>
+	<attribute tooltip="[duration &inputOutputLabel; &SFTimeLabel; &#34;1&#34;] [0,&#8734;)&#10;duration คือช่วงของเวลา กำหนดในหน่วยวินาที" name="duration"/>
+	<attribute tooltip="[initialValue &initializeOnlyLabel; &SFColorLabel; &#34;0.8 0.8 0.8&#34;]&#10;Initail คือค่าเริ่มต้นของ node" name="initialValue"/>
 	<attribute tooltip="[initialDestination &initializeOnlyLabel; &SFColorLabel; &#34;0.8 0.8 0.8&#34;]&#10;Initial destination value for this node." name="initialDestination"/>
 	<attribute tooltip="[set_value &inputOnlyLabel; &SFColorLabel; #FIXED &#34;&#34;]&#10;set_value resets current value of this node." name="set_value"/>
 	<attribute tooltip="[set_destination &inputOnlyLabel; &SFColorLabel; #FIXED &#34;&#34;]&#10;set_destination resets destination value of this node." name="set_destination"/>
@@ -2901,8 +2901,8 @@
     <element icon="icons/CoordinateInterpolator.gif" tooltip="(v3.3 or later) CoordinateChaser generates a series of coordinate arrays that progressively change from initial value to destination value.&#10;ข้อเสนอแนะ: value_changed output events can be ROUTEd to a &lt;Coordinate&gt; node's point field, for example." name="CoordinateChaser">
 	<attribute tooltip="[DEF ID #IMPLIED]&#10;DEF เป็นการกำหนดชื่อ ID เฉพาะสำหรับโหนดซึ่งสามารถอ้างอิงได้จากโหนดอื่น&#10;ข้อเสนอแนะ: ชื่อ DEF ควรมีความชัดเจน บ่งบอกถึงโหนดนั้นว่าคืออะไรหรือทำอะไรอย่างมีความหมาย" name="DEF"/>
 	<attribute tooltip="[USE IDREF #IMPLIED]&#10;USE คือการเรียกใช้ใหม่สำหรับโหนด DEF ID ที่ถูกประกาศไว้แล้ว (Reuse), แต่ไม่รวมถึงโหนดลูกอื่นๆและคุณลักษณะ (attribute) อื่นๆด้วย (ยกเว้น containerField ที่มีค่าที่แตกต่าง)&#10;ข้อเสนอแนะ: การใช้ USE สามารถเพิ่มประสิทธิภาพในการทำงานได้ (แบบที่ไม่ใช่การ duplicate โหนด)&#10;ข้อควรระวัง: ไม่รวมถึงโหนดลูก (child node), คุณลักษณะ (attribute) ของ DEF, หรือค่าคุณลักษณะอื่นๆ (ยกเว้นสำหรับ containerField) เมื่อกำหนดคุณลักษณะของ USE&#10;ข้อควรระวัง: แต่ละค่าของ USE จะต้องตรงกับค่า DEF ที่ถูกประกาศก่อนหน้าใน Scene นั้น" name="USE"/>
-	<attribute tooltip="[duration &inputOutputLabel; &SFTimeLabel; &#34;1&#34;] [0,&#8734;)&#10;duration is the time interval for filter response in seconds." name="duration"/>
-	<attribute tooltip="[initialValue &initializeOnlyLabel; &MFVec3fLabel; &#34;0 0 0&#34;]&#10;Initial starting value for this node." name="initialValue"/>
+	<attribute tooltip="[duration &inputOutputLabel; &SFTimeLabel; &#34;1&#34;] [0,&#8734;)&#10;duration คือช่วงของเวลา กำหนดในหน่วยวินาที" name="duration"/>
+	<attribute tooltip="[initialValue &initializeOnlyLabel; &MFVec3fLabel; &#34;0 0 0&#34;]&#10;Initail คือค่าเริ่มต้นของ node" name="initialValue"/>
 	<attribute tooltip="[initialDestination &initializeOnlyLabel; &MFVec3fLabel; &#34;0 0 0&#34;]&#10;Initial destination value for this node." name="initialDestination"/>
 	<attribute tooltip="[set_value &inputOnlyLabel; &MFVec3fLabel; #FIXED &#34;&#34;]&#10;set_value resets current value of this node." name="set_value"/>
 	<attribute tooltip="[set_destination &inputOnlyLabel; MFVec3fLabel; #FIXED &#34;&#34;]&#10;set_destination resets destination value of this node." name="set_destination"/>
@@ -2914,8 +2914,8 @@
     <element icon="icons/OrientationInterpolator.gif" tooltip="(v3.2 or later) OrientationChaser generates a series of rotation values that progressively change from initial value to destination value.&#10;ข้อเสนอแนะ: value_changed output events can be ROUTEd to a &lt;Transform&gt; node's rotation field, for example." name="OrientationChaser">
 	<attribute tooltip="[DEF ID #IMPLIED]&#10;DEF เป็นการกำหนดชื่อ ID เฉพาะสำหรับโหนดซึ่งสามารถอ้างอิงได้จากโหนดอื่น&#10;ข้อเสนอแนะ: ชื่อ DEF ควรมีความชัดเจน บ่งบอกถึงโหนดนั้นว่าคืออะไรหรือทำอะไรอย่างมีความหมาย" name="DEF"/>
 	<attribute tooltip="[USE IDREF #IMPLIED]&#10;USE คือการเรียกใช้ใหม่สำหรับโหนด DEF ID ที่ถูกประกาศไว้แล้ว (Reuse), แต่ไม่รวมถึงโหนดลูกอื่นๆและคุณลักษณะ (attribute) อื่นๆด้วย (ยกเว้น containerField ที่มีค่าที่แตกต่าง)&#10;ข้อเสนอแนะ: การใช้ USE สามารถเพิ่มประสิทธิภาพในการทำงานได้ (แบบที่ไม่ใช่การ duplicate โหนด)&#10;ข้อควรระวัง: ไม่รวมถึงโหนดลูก (child node), คุณลักษณะ (attribute) ของ DEF, หรือค่าคุณลักษณะอื่นๆ (ยกเว้นสำหรับ containerField) เมื่อกำหนดคุณลักษณะของ USE&#10;ข้อควรระวัง: แต่ละค่าของ USE จะต้องตรงกับค่า DEF ที่ถูกประกาศก่อนหน้าใน Scene นั้น" name="USE"/>
-	<attribute tooltip="[duration &inputOutputLabel; &SFTimeLabel; &#34;1&#34;] [0,&#8734;)&#10;duration is the time interval for filter response in seconds." name="duration"/>
-	<attribute tooltip="[initialValue &initializeOnlyLabel; &SFRotationLabel; &#34;0 1 0 0&#34;]&#10;Initial starting value for this node." name="initialValue"/>
+	<attribute tooltip="[duration &inputOutputLabel; &SFTimeLabel; &#34;1&#34;] [0,&#8734;)&#10;duration คือช่วงของเวลา กำหนดในหน่วยวินาที" name="duration"/>
+	<attribute tooltip="[initialValue &initializeOnlyLabel; &SFRotationLabel; &#34;0 1 0 0&#34;]&#10;Initail คือค่าเริ่มต้นของ node" name="initialValue"/>
 	<attribute tooltip="[initialDestination &initializeOnlyLabel; &SFRotationLabel; &#34;0 1 0 0&#34;]&#10;Initial destination value for this node." name="initialDestination"/>
 	<attribute tooltip="[set_value &inputOnlyLabel; &SFRotationLabel; #FIXED &#34;&#34;]&#10;set_value resets current value of this node." name="set_value"/>
 	<attribute tooltip="[set_destination &inputOnlyLabel; &SFRotationLabel; #FIXED &#34;&#34;]&#10;set_destination resets destination value of this node." name="set_destination"/>
@@ -2927,8 +2927,8 @@
     <element icon="icons/PositionInterpolator.gif" tooltip="(v3.2 or later) PositionChaser generates a series of position values that progressively change from initial value to destination value.&#10;ข้อเสนอแนะ: value_changed output events can be ROUTEd to a &lt;Transform&gt; node's translation field, for example." name="PositionChaser">
 	<attribute tooltip="[DEF ID #IMPLIED]&#10;DEF เป็นการกำหนดชื่อ ID เฉพาะสำหรับโหนดซึ่งสามารถอ้างอิงได้จากโหนดอื่น&#10;ข้อเสนอแนะ: ชื่อ DEF ควรมีความชัดเจน บ่งบอกถึงโหนดนั้นว่าคืออะไรหรือทำอะไรอย่างมีความหมาย" name="DEF"/>
 	<attribute tooltip="[USE IDREF #IMPLIED]&#10;USE คือการเรียกใช้ใหม่สำหรับโหนด DEF ID ที่ถูกประกาศไว้แล้ว (Reuse), แต่ไม่รวมถึงโหนดลูกอื่นๆและคุณลักษณะ (attribute) อื่นๆด้วย (ยกเว้น containerField ที่มีค่าที่แตกต่าง)&#10;ข้อเสนอแนะ: การใช้ USE สามารถเพิ่มประสิทธิภาพในการทำงานได้ (แบบที่ไม่ใช่การ duplicate โหนด)&#10;ข้อควรระวัง: ไม่รวมถึงโหนดลูก (child node), คุณลักษณะ (attribute) ของ DEF, หรือค่าคุณลักษณะอื่นๆ (ยกเว้นสำหรับ containerField) เมื่อกำหนดคุณลักษณะของ USE&#10;ข้อควรระวัง: แต่ละค่าของ USE จะต้องตรงกับค่า DEF ที่ถูกประกาศก่อนหน้าใน Scene นั้น" name="USE"/>
-	<attribute tooltip="[duration &inputOutputLabel; &SFTimeLabel; &#34;1&#34;] [0,&#8734;)&#10;duration is the time interval for filter response in seconds." name="duration"/>
-	<attribute tooltip="[initialValue &initializeOnlyLabel; &SFVec3fLabel; &#34;0 0 0&#34;]&#10;Initial starting value for this node." name="initialValue"/>
+	<attribute tooltip="[duration &inputOutputLabel; &SFTimeLabel; &#34;1&#34;] [0,&#8734;)&#10;duration คือช่วงของเวลา กำหนดในหน่วยวินาที" name="duration"/>
+	<attribute tooltip="[initialValue &initializeOnlyLabel; &SFVec3fLabel; &#34;0 0 0&#34;]&#10;Initail คือค่าเริ่มต้นของ node" name="initialValue"/>
 	<attribute tooltip="[initialDestination &initializeOnlyLabel; &SFVec3fLabel; &#34;0 0 0&#34;]&#10;Initial destination value for this node." name="initialDestination"/>
 	<attribute tooltip="[set_value &inputOnlyLabel; &SFVec3fLabel; #FIXED &#34;&#34;]&#10;set_value resets current value of this node." name="set_value"/>
 	<attribute tooltip="[set_destination &inputOnlyLabel; &SFVec3fLabel; #FIXED &#34;&#34;]&#10;set_destination resets destination value of this node." name="set_destination"/>
@@ -2940,8 +2940,8 @@
     <element icon="icons/PositionInterpolator2D.gif" tooltip="(v3.2 or later) PositionChaser2D generates a series of 2D position values that progressively change from initial value to destination value.&#10;ข้อเสนอแนะ: value_changed output events can be ROUTEd to a &lt;TextureTransform&gt; node's translation field, for example." name="PositionChaser2D">
 	<attribute tooltip="[DEF ID #IMPLIED]&#10;DEF เป็นการกำหนดชื่อ ID เฉพาะสำหรับโหนดซึ่งสามารถอ้างอิงได้จากโหนดอื่น&#10;ข้อเสนอแนะ: ชื่อ DEF ควรมีความชัดเจน บ่งบอกถึงโหนดนั้นว่าคืออะไรหรือทำอะไรอย่างมีความหมาย" name="DEF"/>
 	<attribute tooltip="[USE IDREF #IMPLIED]&#10;USE คือการเรียกใช้ใหม่สำหรับโหนด DEF ID ที่ถูกประกาศไว้แล้ว (Reuse), แต่ไม่รวมถึงโหนดลูกอื่นๆและคุณลักษณะ (attribute) อื่นๆด้วย (ยกเว้น containerField ที่มีค่าที่แตกต่าง)&#10;ข้อเสนอแนะ: การใช้ USE สามารถเพิ่มประสิทธิภาพในการทำงานได้ (แบบที่ไม่ใช่การ duplicate โหนด)&#10;ข้อควรระวัง: ไม่รวมถึงโหนดลูก (child node), คุณลักษณะ (attribute) ของ DEF, หรือค่าคุณลักษณะอื่นๆ (ยกเว้นสำหรับ containerField) เมื่อกำหนดคุณลักษณะของ USE&#10;ข้อควรระวัง: แต่ละค่าของ USE จะต้องตรงกับค่า DEF ที่ถูกประกาศก่อนหน้าใน Scene นั้น" name="USE"/>
-	<attribute tooltip="[duration &inputOutputLabel; &SFTimeLabel; &#34;1&#34;] [0,&#8734;)&#10;duration is the time interval for filter response in seconds." name="duration"/>
-	<attribute tooltip="[initialValue &initializeOnlyLabel; &SFVec2fLabel; &#34;0 0&#34;]&#10;Initial starting value for this node." name="initialValue"/>
+	<attribute tooltip="[duration &inputOutputLabel; &SFTimeLabel; &#34;1&#34;] [0,&#8734;)&#10;duration คือช่วงของเวลา กำหนดในหน่วยวินาที" name="duration"/>
+	<attribute tooltip="[initialValue &initializeOnlyLabel; &SFVec2fLabel; &#34;0 0&#34;]&#10;Initail คือค่าเริ่มต้นของ node" name="initialValue"/>
 	<attribute tooltip="[initialDestination &initializeOnlyLabel; &SFVec2fLabel; &#34;0 0&#34;]&#10;Initial destination value for this node." name="initialDestination"/>
 	<attribute tooltip="[set_value &inputOnlyLabel; &SFVec2fLabel; #FIXED &#34;&#34;]&#10;set_value resets current value of this node." name="set_value"/>
 	<attribute tooltip="[set_destination &inputOnlyLabel; &SFVec2fLabel; #FIXED &#34;&#34;]&#10;set_destination resets destination value of this node." name="set_destination"/>
@@ -2953,8 +2953,8 @@
     <element icon="icons/ScalarInterpolator.gif" tooltip="(v3.2 or later) ScalarChaser generates a series of single floating-point values that progressively change from initial value to destination value.&#10;ข้อเสนอแนะ: value_changed output events can be ROUTEd to an interpolator node's set_fraction field, for example." name="ScalarChaser">
 	<attribute tooltip="[DEF ID #IMPLIED]&#10;DEF เป็นการกำหนดชื่อ ID เฉพาะสำหรับโหนดซึ่งสามารถอ้างอิงได้จากโหนดอื่น&#10;ข้อเสนอแนะ: ชื่อ DEF ควรมีความชัดเจน บ่งบอกถึงโหนดนั้นว่าคืออะไรหรือทำอะไรอย่างมีความหมาย" name="DEF"/>
 	<attribute tooltip="[USE IDREF #IMPLIED]&#10;USE คือการเรียกใช้ใหม่สำหรับโหนด DEF ID ที่ถูกประกาศไว้แล้ว (Reuse), แต่ไม่รวมถึงโหนดลูกอื่นๆและคุณลักษณะ (attribute) อื่นๆด้วย (ยกเว้น containerField ที่มีค่าที่แตกต่าง)&#10;ข้อเสนอแนะ: การใช้ USE สามารถเพิ่มประสิทธิภาพในการทำงานได้ (แบบที่ไม่ใช่การ duplicate โหนด)&#10;ข้อควรระวัง: ไม่รวมถึงโหนดลูก (child node), คุณลักษณะ (attribute) ของ DEF, หรือค่าคุณลักษณะอื่นๆ (ยกเว้นสำหรับ containerField) เมื่อกำหนดคุณลักษณะของ USE&#10;ข้อควรระวัง: แต่ละค่าของ USE จะต้องตรงกับค่า DEF ที่ถูกประกาศก่อนหน้าใน Scene นั้น" name="USE"/>
-	<attribute tooltip="[duration &inputOutputLabel; &SFTimeLabel; &#34;1&#34;] [0,&#8734;)&#10;duration is the time interval for filter response in seconds." name="duration"/>
-	<attribute tooltip="[initialValue &initializeOnlyLabel; &SFFloatLabel; &#34;0&#34;]&#10;Initial starting value for this node." name="initialValue"/>
+	<attribute tooltip="[duration &inputOutputLabel; &SFTimeLabel; &#34;1&#34;] [0,&#8734;)&#10;duration คือช่วงของเวลา กำหนดในหน่วยวินาที" name="duration"/>
+	<attribute tooltip="[initialValue &initializeOnlyLabel; &SFFloatLabel; &#34;0&#34;]&#10;Initail คือค่าเริ่มต้นของ node" name="initialValue"/>
 	<attribute tooltip="[initialDestination &initializeOnlyLabel; &SFFloatLabel; &#34;0&#34;]&#10;Initial destination value for this node." name="initialDestination"/>
 	<attribute tooltip="[set_value &inputOnlyLabel; &SFFloatLabel; #FIXED &#34;&#34;]&#10;set_value resets current value of this node." name="set_value"/>
 	<attribute tooltip="[set_destination &inputOnlyLabel; &SFFloatLabel; #FIXED &#34;&#34;]&#10;set_destination resets destination value of this node." name="set_destination"/>
@@ -2966,8 +2966,8 @@
     <element icon="icons/CoordinateInterpolator.gif" tooltip="(v3.3 or later) TexCoordChaser2D generates a series of single floating-point values that progressively change from initial value to destination value.&#10;ข้อเสนอแนะ: value_changed output events can be ROUTEd to a &lt;TextureTransform&gt; node's translation field, for example." name="TexCoordChaser2D">
 	<attribute tooltip="[DEF ID #IMPLIED]&#10;DEF เป็นการกำหนดชื่อ ID เฉพาะสำหรับโหนดซึ่งสามารถอ้างอิงได้จากโหนดอื่น&#10;ข้อเสนอแนะ: ชื่อ DEF ควรมีความชัดเจน บ่งบอกถึงโหนดนั้นว่าคืออะไรหรือทำอะไรอย่างมีความหมาย" name="DEF"/>
 	<attribute tooltip="[USE IDREF #IMPLIED]&#10;USE คือการเรียกใช้ใหม่สำหรับโหนด DEF ID ที่ถูกประกาศไว้แล้ว (Reuse), แต่ไม่รวมถึงโหนดลูกอื่นๆและคุณลักษณะ (attribute) อื่นๆด้วย (ยกเว้น containerField ที่มีค่าที่แตกต่าง)&#10;ข้อเสนอแนะ: การใช้ USE สามารถเพิ่มประสิทธิภาพในการทำงานได้ (แบบที่ไม่ใช่การ duplicate โหนด)&#10;ข้อควรระวัง: ไม่รวมถึงโหนดลูก (child node), คุณลักษณะ (attribute) ของ DEF, หรือค่าคุณลักษณะอื่นๆ (ยกเว้นสำหรับ containerField) เมื่อกำหนดคุณลักษณะของ USE&#10;ข้อควรระวัง: แต่ละค่าของ USE จะต้องตรงกับค่า DEF ที่ถูกประกาศก่อนหน้าใน Scene นั้น" name="USE"/>
-	<attribute tooltip="[duration &inputOutputLabel; &SFTimeLabel; &#34;1&#34;] [0,&#8734;)&#10;duration is the time interval for filter response in seconds." name="duration"/>
-	<attribute tooltip="[initialValue &initializeOnlyLabel; &MFVec2fLabel; #IMPLIED]&#10;Initial starting value for this node." name="initialValue"/>
+	<attribute tooltip="[duration &inputOutputLabel; &SFTimeLabel; &#34;1&#34;] [0,&#8734;)&#10;duration คือช่วงของเวลา กำหนดในหน่วยวินาที" name="duration"/>
+	<attribute tooltip="[initialValue &initializeOnlyLabel; &MFVec2fLabel; #IMPLIED]&#10;Initail คือค่าเริ่มต้นของ node" name="initialValue"/>
 	<attribute tooltip="[initialDestination &initializeOnlyLabel; &MFVec2fLabel; #IMPLIED]&#10;Initial destination value for this node." name="initialDestination"/>
 	<attribute tooltip="[set_value &inputOnlyLabel; &MFVec2fLabel; #FIXED &#34;&#34;]&#10;set_value resets current value of this node." name="set_value"/>
 	<attribute tooltip="[set_destination &inputOnlyLabel; &MFVec2fLabel; #FIXED &#34;&#34;]&#10;set_destination resets destination value of this node." name="set_destination"/>
